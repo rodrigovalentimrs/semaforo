@@ -31,5 +31,4 @@ const turnOn = {
 
 document.addEventListener('DOMContentLoaded', () => {
     turnOn['automatic'](); 
-    intervalId = setInterval(changeColor, 1000); 
 });
